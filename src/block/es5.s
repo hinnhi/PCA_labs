@@ -11,7 +11,7 @@ _start:
 	add a5,a4,a5
 	li a1,3
 	mv a0,a5
-	call __univdi3
+	call __udivdi3
 	mv a5,a0
 	mv a4,a5
 	la a5,x
