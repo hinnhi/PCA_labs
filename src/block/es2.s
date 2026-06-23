@@ -15,3 +15,7 @@ _start:
 	srli t1,t0,2
 	la t0,v
 	sd t1,0(t0)
+
+# solution:
+#
+# v[0] = (a + 2*b + 3*c + 4*d)/4;
