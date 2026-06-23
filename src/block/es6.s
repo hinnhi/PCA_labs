@@ -15,3 +15,10 @@ _start:
 	add a5,a5,a4
 	la t0,c
 	sd a5,0(t0)
+
+# uint64_t x[4] = {1, 1, 0, 1};
+# uint64_t c = 0;
+
+# solution:
+#
+# c = -3;
