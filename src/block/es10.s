@@ -21,4 +21,5 @@ _start:
 # uint64_t i; //local, stored in t0
 
 # solution:
+#
 # if (w[i] == v[i]) i = w[i]  + v[i];
