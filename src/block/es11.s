@@ -8,6 +8,8 @@ _start:
 	
 .L2:
 
+# solution:
+#
 # while(a > 0){
 # 	a = a + b;
 # }
