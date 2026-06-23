@@ -9,15 +9,3 @@ else:
 	sd a3,0(t0)
 
 fineIf:
-	
-#uint64_t v
-#
-#int main(){
-#	/* ... */
-#	if(a > 0) {
-#		v = b;
-#	} esle {
-#		v = c;
-#	}
-#	/* ... */
-#}
