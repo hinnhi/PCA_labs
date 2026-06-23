@@ -7,3 +7,7 @@ _start:
 	add a4,a5,a4
 	la t0,v
 	sd a4,0(t0)
+
+# solution:
+#
+# v = 4;
