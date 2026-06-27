@@ -20,5 +20,7 @@ _start:
 	
 # solution:
 #
-# if(i>0) printf("true condition");
-# else printf("false condition");
+# if(i>0) 
+# 	printf("true condition");
+# else 
+# 	printf("false condition");
