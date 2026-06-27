@@ -12,7 +12,7 @@ _start:
 	slli s1,a4,2
 	mv a1,t1
 	mv a0,t0
-	call __muldi3 	;; a0 = b[] * x
+	call __muldi3 	# a0 = b[] * x
 	mv t1,a0
 	slli t2,s1,3
 	la t0,b
