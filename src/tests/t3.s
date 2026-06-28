@@ -13,7 +13,7 @@
 # }
 
 
-# Stack frame information for function 'a':
+# Stack frame information for function 'f':
 # - register a0 contains n (size: 8 bytes)
 # - saved reg ra at stack offset: 8
 # - saved reg s0 at stack offset: 0
